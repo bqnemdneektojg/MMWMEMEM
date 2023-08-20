@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^1.2.6",
+    "request": "^2.88.2",
+    "telegraf": "^4.11.2"
+  }
+}
